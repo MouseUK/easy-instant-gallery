@@ -145,8 +145,8 @@ if (isset($_POST['download'])) {
     </style>
 </head>
 <body>
-    <h2><center>Skating Edge Artistic - Image Gallery</center></h2>
-    <h3><center>Great Yarmouth Nationals 22/03/2025 - 23/03/2025</center></h3><br>
+    <h2><center>Image Gallery</center></h2>
+    <h3><center></center></h3><br>
     <form method="post">
         <div class="gallery">
             <?php foreach ($paginatedImages as $image): ?>
