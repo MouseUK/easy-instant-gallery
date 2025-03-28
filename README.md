@@ -16,3 +16,9 @@ Quick and dirty script created when I needed to display and allow download of 38
 Adding it on here incase I need it again or its of use to anyone else.
 
 Enjoy.
+
+Simple version in use:
+![image](https://github.com/user-attachments/assets/b76d7798-29a8-46aa-bfe4-fb1053bc08e4)
+
+Thumb Version in use:
+![image](https://github.com/user-attachments/assets/8c4a82d0-096c-43c2-afc3-987e74c426ae)
