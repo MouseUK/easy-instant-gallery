@@ -1,6 +1,6 @@
 // Simple quick Gallery in a folder, no db needed, just php on the server.
 // Drop this into a folder with images, when you go to the page it will load slow first time, it creats a filename-thumb.jpg for every image in the folder that its trying to load.
-// (If there is more than 25 images it will only do the first 25, when you go to the next page it will do the next 25 etc)
+// (If there is more than 50 images it will only do the first 25, when you go to the next page it will do the next 25 etc)
 // It will use the Thumb's to display the image after this first step, making it quicker to load.
 // Download function will take the origional image, clicking the thumb image will take you to the real image.
 // This was a quick and easy way of creating a gallery of photos I took at an event for a club and allow them to get a copy of the pictures they wanted easily.
